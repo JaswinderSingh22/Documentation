@@ -8,6 +8,10 @@ Let's discover **Documentation in less than 5 minutes**.
 
 ## Getting Started
 
+Video example:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4r50HvPwk5E?si=dmZwfTpRoyVCW3E6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 Get started by **creating a new site**.
 
 Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
