@@ -44,7 +44,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/",
+            "https://github.com/JaswinderSingh22/Documentation/tree/main",
         },
         blog: {
           showReadingTime: true,
@@ -100,7 +100,7 @@ const config = {
             items: [
               {
                 label: "Tutorial",
-                to: "/info/intro",
+                to: "/docs/intro",
               },
             ],
           },
